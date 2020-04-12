@@ -11,3 +11,6 @@ The sub-batches output by the encoders is then re-combined into a single batch f
 For testing, this repository contains one dataset from ["An Explicitly Relational Neural Network Architecture"](https://arxiv.org/abs/1905.10307). 
 
 Each of these architectural elements are shown in more detail in diagrams in the rest of the notebook.
+
+
+<img src="images/branching_mha_encoder.png">
