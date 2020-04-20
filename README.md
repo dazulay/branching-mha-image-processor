@@ -31,3 +31,7 @@ The tensorflow graphs below show results of running my model on the "held-out" d
 The first graphs shows the result using AggregatingMultiHeadedAttention as the "final module".
 The second graph shows the result when using a Max Function.
 Clearly, for this dataset the modules yield similar results, although the Max Function appears a bit less volatile.
+
+<img src="images/tensorflow_aggregating_mha.png">
+
+<img src="images/tensorflow_max_function.png">
